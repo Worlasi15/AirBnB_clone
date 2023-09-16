@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
-def Clc_function(Reb1, Reb2):
-    result = Reb1 + Reb2
-    print("Reb1 and Reb2 accumulates as:", result)
+def Clc_function(10, 20):
+    result = 10 + 20
+    print("10 and 20 accumulates as:", result)
