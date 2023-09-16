@@ -1,13 +1,3 @@
-def partner(names):
-    """
-    Accept project partner.
-
-
-    Args:
-    names (str): The name of my partner.
-
-
-    Returns:
-    str: Acceptance.
-    """
-    return f"Hello, {names}!"
+def Clc_function(Reb1, Reb2):
+result = Reb1 +Reb2
+print("Reb1 and Reb2 accumulates as:", result)
