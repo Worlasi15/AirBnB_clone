@@ -2,4 +2,4 @@
 #A list of collaborators
 
 
-print("collaborator's name")
+print("collaborator name")
