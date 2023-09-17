@@ -16,4 +16,4 @@ try:
         result = factorial(num)
         print(f"lts factorial is {num}{result}")
 except ValueError:
-    print("Invalid inpuy. Please enter a non-negative integer.")
+    print("Invalid input. Please enter a non-negative integer.")
