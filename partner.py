@@ -5,8 +5,6 @@ def factorial(a):
     else:
         return a * factorial(a - 1)
 
-# User's input
-
 
 try:
     num = int(input("Input any non-negative integer:"))
@@ -14,6 +12,6 @@ try:
         print("Factorial is not defined for negative number.")
     else:
         result = factorial(num)
-        print(f"lts factorial is {num}{result}")
+        print(f"Its factorial is {result}")
 except ValueError:
-    print("Invalid inpuy. Please enter a non-negative integer.")
+    print("Invalid input. Please enter a non-negative integer.")
