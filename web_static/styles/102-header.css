@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Extra small devices (phones, 600px and down) */
 /* @media only screen and (max-width: 600px) */
 header {
@@ -125,3 +126,16 @@ ul li span:hover
 @media only screen and (min-width: 992px) {
 
 }
+=======
+/*
+ * === Header style ===
+ */
+
+/* Header style */
+header {
+    background: #fff url('../images/logo.png') 20px center no-repeat;
+    border-bottom: 1px solid #ccc;
+    height: 70px;
+    width: 100%;
+  }
+>>>>>>> 34baef260387b7977f0180b9c11704a880a56816

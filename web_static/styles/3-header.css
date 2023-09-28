@@ -1,0 +1,22 @@
+header {
+    background-color: #FF0000;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    background-image: url('../images/logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 60px;
+    width: 142px;
+    margin-left: 20px;
+}
+
+header p {
+    color: white;
+    margin: 0;
+}

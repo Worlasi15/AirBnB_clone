@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 header{
     Background-color:#FF0000;
     height: 70px;
     width:100%;
+=======
+header {
+    background-color: #FF0000;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1 {
+    color: white;
+>>>>>>> 34baef260387b7977f0180b9c11704a880a56816
 }
